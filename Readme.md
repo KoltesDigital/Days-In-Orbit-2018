@@ -1,5 +1,9 @@
 # Visual Live Coding with Veda on Days In Orbit at La Briche Foraine 2018
 
+[Video on YouTube.](https://youtu.be/-SlSkRueXmw)
+
+Thanks to [Takayosi Amagi](https://github.com/fand/), [Patricio Gonzales Vivo](https://github.com/patriciogonzalezvivo), [IQ](http://iquilezles.org), [Ponk](https://github.com/leon196/), and [lsdlive](https://github.com/theotime).
+
 ## Framework
 
 <https://veda.gl/> 2.9.2
